@@ -7,7 +7,7 @@ Don’t forget to save your code after each step. By pressing save to run your c
 
 Note: While you are developing the webpage, you will notice that the elements are automatically assigned colors, borders, and positioned properly. This is because of the CSS file. Don’t worry about CSS right now, it’s only there so that the webpage looks nice.
 
-![image]()
+![image](https://github.com/abemsq/new-york-city/blob/master/image.png)
 
 ## HTML
 ```
